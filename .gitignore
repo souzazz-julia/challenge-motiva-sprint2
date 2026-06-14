@@ -7,7 +7,7 @@ target/
 .idea/
 *.iml
 
-# Maven / Gradle (se adotados futuramente)
+# Maven / Gradle
 *.jar
 *.war
 *.ear
