@@ -1,0 +1,21 @@
+# Compilados Java
+out/
+target/
+*.class
+
+# Arquivos de projeto IntelliJ IDEA
+.idea/
+*.iml
+
+# Maven / Gradle (se adotados futuramente)
+*.jar
+*.war
+*.ear
+build/
+.gradle/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
